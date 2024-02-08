@@ -1,7 +1,7 @@
 # Largest Banks Data ETL Pipeline
 
 ## Overview
-This project is a comprehensive ETL (Extract, Transform, Load) pipeline designed to scrape, process, and analyze data related to the largest banks worldwide. The data is extracted from a Wikipedia page listing the banks and their market capitalizations in USD. The pipeline then transforms this data, converting market capitalizations into GBP, EUR, and INR using exchange rates, and finally loads the processed data into both a CSV file and a SQLite database.
+This is a Coursera course (IBM Data Engineering) project which is a comprehensive ETL (Extract, Transform, Load) pipeline designed to scrape, process, and analyze data related to the largest banks worldwide. The data is extracted from a Wikipedia page listing the banks and their market capitalizations in USD. The pipeline then transforms this data, converting market capitalizations into GBP, EUR, and INR using exchange rates, and finally loads the processed data into both a CSV file and a SQLite database.
 
 
 ## Features
@@ -29,3 +29,4 @@ This project is a comprehensive ETL (Extract, Transform, Load) pipeline designed
 
 ## Contribution
 Feel free to contribute by submitting bug reports, feature requests, or pull requests. Your feedback and collaboration are highly appreciated!
+
