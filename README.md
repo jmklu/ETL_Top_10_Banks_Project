@@ -20,7 +20,7 @@ This is a Coursera course (IBM Data Engineering) project which is a comprehensiv
 
 
 ## File Structure
-- **YourScriptName.py**: Main script for the ETL process.
+- **banks_project.py**: Main script for the ETL process.
 - **exchange_rate.csv**: CSV file containing exchange rates for currency conversion.
 - **Largest_banks_data.csv**: Final processed data saved as a CSV file.
 - **Banks.db**: SQLite database file for structured data storage.
